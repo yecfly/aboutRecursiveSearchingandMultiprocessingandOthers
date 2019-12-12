@@ -1,2 +1,2 @@
 # aboutRecursiveSearchingandMultiprocessingandOthers
-About recursive searching under folders, multiprocessing, andOthers
+About recursive searching under folders, multiprocessing, and others
